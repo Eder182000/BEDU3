@@ -1,91 +1,9 @@
-*
-{
-    margin: 0;
-    margin-right: 0px;
-    padding-right: 0;
-    padding-left: 0;
-    box-sizing: border-box;
-    background-color: #FFFBF7;
-}
-html
-{
-    font-size: 60%;
-}
-.header
+.container-header
 {
     width: 100%;
-    display: table;
-    height: 45px;
-    margin-top: 15px;
-    margin-left: 10px;
-}
-.header_logo_container
-{
-    height: inherit;
-    width: 15%;
-    line-height: 60px;
-    vertical-align: middle;
-}
-.header_logo_container img
-{
-    line-height: 60px;
-}
-.header_nav
-{
-    display: inline-block;
-    width: 60%;
-    height: 60%;
-    text-align: center;
-}
-.header_nav ul
-{
-    list-style: none;
-    display: inline-block;
+    height: 400px;
+    background-color: aqua;
 
-}
-.header_nav ul li
-{
-    display: inline-block;
-    font-size: 16px;
-    margin: 12.5px 12.5px;
-}
-.header_nav ul li a
-{
-    text-decoration: none;
-    color: #025157;
-    font-family: "sans-serif";
-}
-.header_acceso
-{
-    text-align: right;
-    display: inline-block;
-    padding-bottom: 5px;
-    width: 20%;
-    font-size: 14px;
-    vertical-align: middle;
-    margin-left: 50px;
-}
 
-.header_acceso a
-{
-    text-decoration: none;
-    color: #67B54B;
-    font-weight: bold;
-    display: inline-block;
-    font-family: "sans-serif";
-    margin: 0px 10px;
-}
-.header_acceso button
-{
-    background-color: #67b54b;
-    color: white;
-    border-radius: 10px;
-    padding: 12px 14px;
-    border: none;
-    margin: 0px 10px;
-}       
-footer
-{
-    margin-top: 435px;
-    margin-left: 940px;
+
 }
