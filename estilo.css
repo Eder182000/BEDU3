@@ -1,9 +1,42 @@
+html
+{
+    display: inline;
+}
+body
+{
+    display: inline;
+}
 .container-header
 {
+    justify-content: center;
+    display: flex;
     width: 100%;
-    height: 400px;
+    height: 100px;
     background-color: aqua;
+}
+.Cuerpo
+{
+    width: 80%;
+    height: 700px;
+    display: inline-flex;
+    background-color: chartreuse;
+    justify-content: center;
+    align-items: center;
+}
+.aside
+{
+    
+    width: 20%;
+    height: 700px;
+    float: right;
+}
+.aside-publicidad
+{
+    height: 700px;
 
-
-
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
 }
