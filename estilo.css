@@ -1,3 +1,4 @@
+
 html
 {
     display: inline;
@@ -11,27 +12,6 @@ body
     justify-content: center;
     display: flex;
     width: 100%;
-<<<<<<< HEAD
-<<<<<<< HEAD
-    height: 200px;
-    background-color: aqua;
-}
-.container-section-promo
-{
-    display: flex;
-    width: 70%;
-    margin: 100px auto;
-    align-items: center;
-}
-.item-article
-{
-    width: 30%;
-    height: 100px;
-    background-color: aqua;
-=======
-    height: 100px;
-    background-color: aqua;
-=======
     height: 100px;
     background-color: aqua;
 }
@@ -39,7 +19,6 @@ body
 {
     display: flex;
     flex-direction: column;
->>>>>>> 87d9647196362e446e3220c793ac96c7a54eafd4
 }
 .Cuerpo
 {
@@ -47,11 +26,7 @@ body
     height: 700px;
     display: inline-flex;
     background-color: chartreuse;
-<<<<<<< HEAD
-    justify-content: center;
-=======
     justify-content: space-around;
->>>>>>> 87d9647196362e446e3220c793ac96c7a54eafd4
     align-items: center;
 }
 .aside
@@ -70,11 +45,4 @@ body
     align-items: center;
     justify-content: space-around;
     
-<<<<<<< HEAD
->>>>>>> d88c3d0210f9a78313df699d6707e46c24e9ebb6
 }
-=======
-}
-
-
->>>>>>> 87d9647196362e446e3220c793ac96c7a54eafd4
